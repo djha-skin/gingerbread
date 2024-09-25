@@ -1,0 +1,4 @@
+*.csv text
+*.lisp text
+.git* text
+* text=auto
